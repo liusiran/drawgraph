@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T08:14:48.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KBgQL_8v3jkZ8lRMAVUV" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:16:52.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="euaZ1cv8N1aqNEV3b0Yf" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="1434" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,13 +65,13 @@
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-38" value="实例化其他子业务类" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#a5a5a5;" vertex="1" parent="1">
           <mxGeometry x="467" y="139" width="163" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-40" value="组件列表类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#a5a5a5;" vertex="1" parent="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-40" value="组件列表类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="424" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-42" value="管理组件互斥逻辑、白名单逻辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="3l8t6mUNtK_PsgLy6fKD-40">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-44" value="表单数据类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#a5a5a5;" vertex="1" parent="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-44" value="表单数据类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="551" y="11" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-46" value="专门处理表单组件的业务逻辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="3l8t6mUNtK_PsgLy6fKD-44">
