@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T05:12:11.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="w7hzfNwbR7q1SRhqrPcR" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T05:14:09.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B7y-b1BWq3TCqPLFoJqb" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="1434" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-7" value="Entry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-7" value="打开&lt;br&gt;编辑器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-10" value="版&lt;br&gt;本&lt;br&gt;控&lt;br&gt;制" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=1" vertex="1" parent="1">
@@ -62,7 +62,7 @@
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-37" value="组&lt;br&gt;件&lt;br&gt;接&lt;br&gt;入&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="689" y="127.5" width="41" height="232.5" as="geometry" />
         </mxCell>
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-38" value="实例化其他子业务类" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-38" value="实例化其他子业务类" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#a5a5a5;" vertex="1" parent="1">
           <mxGeometry x="467" y="139" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-40" value="组件列表类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#a5a5a5;" vertex="1" parent="1">
