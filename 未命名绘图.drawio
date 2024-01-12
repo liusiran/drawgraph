@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T09:52:48.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H-pZycWyKG-V4SlwS6aZ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T12:21:06.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t1uQrhSo7tAqo_zNyQfa" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="3088" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,6 +438,24 @@
         </mxCell>
         <mxCell id="-4UdqzTXUKrN_mU-c5xP-72" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-413" y="-423" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-73" value="业&lt;br&gt;务&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="-920" width="32" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-75" value="接&lt;br&gt;入&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="-840" width="32" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-76" value="基&lt;br&gt;础&lt;br&gt;层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="-760" width="32" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-77" value="不同版本落地页资源载入&lt;br&gt;组件库、画布插件、接口调用" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="-920" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-84" value="落地页数据打平" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-708" y="-840" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4UdqzTXUKrN_mU-c5xP-93" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-708" y="-760" width="345" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
