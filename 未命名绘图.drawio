@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T16:16:21.882Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KCywM3JAtMsEBjvzYiMg" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T02:31:12.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-FNlu1Gup5MXAMC0R0KK" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="3974" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -887,7 +887,7 @@
             <mxPoint x="-620" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-174" value="组件导航UI" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-174" value="EditorCore" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-149.1" width="260" height="359.1" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KVEe3BomnqjEe1uI1MiG-174" source="KVEe3BomnqjEe1uI1MiG-176" target="KVEe3BomnqjEe1uI1MiG-180">
@@ -896,19 +896,19 @@
         <mxCell id="KVEe3BomnqjEe1uI1MiG-176" value="获取当前class" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="65" y="60.19999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-180" value="根据属性渲染组件列表" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-180" value="获取对应组件库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="63" y="160.20000000000002" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-185" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="102.3" y="154.74" width="50" height="185.42" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-186" value="Layout1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-186" value="微信组件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="5" y="276.1" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-187" value="Layout2" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-187" value="蹊径组件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="90" y="275.1" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-188" value="其他Layout" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-188" value="同构组件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-174">
           <mxGeometry x="180" y="275.1" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-177" value="其他版本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
