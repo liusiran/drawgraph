@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:17:44.187Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L-5xR1I2E0Q_eo0AiBqW" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T03:48:07.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UI1taY_bbe3-foGS1wDa" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="3728" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-77" value="交互响应处理&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" vertex="1">
           <mxGeometry x="990" y="510" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-78" value="触发重绘事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" vertex="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-78" value="发送重绘事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" vertex="1">
           <mxGeometry x="358" y="480" width="182" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-80" value="继承" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.644;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="KVEe3BomnqjEe1uI1MiG-86" target="3l8t6mUNtK_PsgLy6fKD-97" edge="1">
@@ -456,10 +456,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3l8t6mUNtK_PsgLy6fKD-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" source="3l8t6mUNtK_PsgLy6fKD-38" target="3l8t6mUNtK_PsgLy6fKD-31" edge="1">
+        <mxCell id="3l8t6mUNtK_PsgLy6fKD-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" source="3l8t6mUNtK_PsgLy6fKD-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="320" as="sourcePoint" />
-            <mxPoint x="770" y="270" as="targetPoint" />
+            <mxPoint x="614" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-82" value="引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="3l8t6mUNtK_PsgLy6fKD-81" vertex="1" connectable="0">
