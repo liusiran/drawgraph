@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:14:58.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vVib2ib23tPtt49VyLOO" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T03:17:44.187Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L-5xR1I2E0Q_eo0AiBqW" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="3728" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -729,13 +729,13 @@
         <mxCell id="KVEe3BomnqjEe1uI1MiG-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVEe3BomnqjEe1uI1MiG-121" target="KVEe3BomnqjEe1uI1MiG-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-121" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;需求&lt;br style=&quot;font-size: 17px;&quot;&gt;评审&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-121" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;需求&lt;br style=&quot;font-size: 15px;&quot;&gt;评审&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1230" y="725" width="60" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVEe3BomnqjEe1uI1MiG-123" target="KVEe3BomnqjEe1uI1MiG-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-127" value="相同改动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="KVEe3BomnqjEe1uI1MiG-126" vertex="1" connectable="0">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-127" value="相同改动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="KVEe3BomnqjEe1uI1MiG-126" vertex="1" connectable="0">
           <mxGeometry x="-0.2389" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -745,24 +745,24 @@
             <mxPoint x="-947" y="757.4999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-130" value="不同改动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="KVEe3BomnqjEe1uI1MiG-129" vertex="1" connectable="0">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-130" value="不同改动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="KVEe3BomnqjEe1uI1MiG-129" vertex="1" connectable="0">
           <mxGeometry x="-0.1708" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-123" value="逻辑&lt;br style=&quot;font-size: 17px;&quot;&gt;评估" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-123" value="逻辑&lt;br style=&quot;font-size: 15px;&quot;&gt;评估" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1130" y="717.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-125" value="修改基类模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-125" value="修改基类模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-131" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 12pt; text-align: left;&quot;&gt;1.修改对应子类模块&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;2.开发定制化&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;UI&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt; 或 插件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;language:zh-CN;line-height:150%;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.19in;text-indent:-.19in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size:12.0pt&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-131" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 15px; text-align: left;&quot;&gt;1.修改对应子类模块&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;2.开发定制化&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;UI&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt; 或 插件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.19in; text-align: left; direction: ltr; word-break: normal; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-947" y="730" width="197" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-133" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;评审一次&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1250" y="797.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-134" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#cc0000&quot;&gt;开发一次&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul&gt;&lt;li&gt;相同逻辑，一次改动多处生效，提高开发效率&lt;/li&gt;&lt;li&gt;不同逻辑，研发只需关注对应场景的修改，不用担心影响其他场景，降低bug率&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; color: rgb(204, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-134" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#cc0000&quot;&gt;开发一次，效率提升4倍&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul&gt;&lt;li&gt;相同逻辑，一次改动多处生效，提高开发效率&lt;/li&gt;&lt;li&gt;不同逻辑，研发只需关注对应场景的修改，不用担心影响其他场景，降低bug率&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; color: rgb(204, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1040" y="817.14" width="290" height="112.86" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-135" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;class&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
