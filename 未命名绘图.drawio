@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T07:06:48.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J4MtZyI3j7f696o0B06j" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T07:10:22.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0OhSpTbgvUqlgazFgjKB" version="22.1.20" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="6755" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
         </mxCell>
         <mxCell id="3l8t6mUNtK_PsgLy6fKD-102" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-86" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="934" y="347" as="sourcePoint" />
+            <mxPoint x="910" y="347" as="sourcePoint" />
             <mxPoint x="974" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -619,7 +619,7 @@
             <mxPoint x="851" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVEe3BomnqjEe1uI1MiG-72" value="依赖注入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-71" vertex="1" connectable="0">
+        <mxCell id="KVEe3BomnqjEe1uI1MiG-72" value="引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="KVEe3BomnqjEe1uI1MiG-71" vertex="1" connectable="0">
           <mxGeometry x="-0.2222" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
@@ -662,6 +662,9 @@
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-119" value="独立的内核，与业务解耦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1;fontSize=14;" parent="KVEe3BomnqjEe1uI1MiG-86" vertex="1">
           <mxGeometry x="1087" y="5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-135" value="依赖注入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KVEe3BomnqjEe1uI1MiG-86">
+          <mxGeometry x="900.5" y="307.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KVEe3BomnqjEe1uI1MiG-87" value="编辑器内核" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="660" y="-838.5" width="70" height="70" as="geometry" />
