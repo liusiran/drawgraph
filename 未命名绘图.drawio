@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T06:11:02.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wMd755bka8Zv0jA8-oQo" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:18:45.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SCp39K1WOMAKJZby4JNK" version="22.1.20" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
-    <mxGraphModel dx="6755" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6042" dy="2834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1374,13 +1374,13 @@
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-78.85" y="-1256.56" width="43.24" height="239" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-19" value="对接不同组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-19" value="业务解耦" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="16.1" y="-1282.46" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-20" value="基础操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-220" y="-1282.46" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-21" value="插件扩展" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-21" value="功能扩展" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="17.25" y="-1117" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;direction=west;" vertex="1" parent="1">
@@ -1422,7 +1422,7 @@
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-72.75" y="-1358.07" width="30" height="239.23" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-36" value="多种布局方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-36" value="布局方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-229.9" y="-1117.0000000000002" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
