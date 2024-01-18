@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:27:57.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6aLk3ECHIo5sy8nJ-Ux_" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T09:55:54.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J2nR4XEiOzIxQRL3IsAP" version="22.1.20" type="github">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
     <mxGraphModel dx="6042" dy="2834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1386,13 +1386,13 @@
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;direction=west;" vertex="1" parent="1">
           <mxGeometry x="43.1" y="-1379.46" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-23" value="微信样式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-23" value="微信组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-53.89999999999998" y="-1346.46" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-24" value="蹊径样式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-24" value="蹊径组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="23.100000000000023" y="-1345.46" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBH2Zx8rKCGy-WB07wpK-25" value="同构组件库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SBH2Zx8rKCGy-WB07wpK-25" value="同构组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="104.10000000000002" y="-1345.46" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="SBH2Zx8rKCGy-WB07wpK-26" value="缩放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
