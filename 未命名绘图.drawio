@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="_vfewswIjysuvZJ_qlGc">
-    <mxGraphModel dx="6209" dy="3989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6395" dy="4253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1666,13 +1666,13 @@
           <mxGeometry x="-3680" y="-1753" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="HRQdHkldCyFknDisDxDQ-5" value="&lt;div&gt;&lt;b&gt;组件菜单：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.查找组件&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;添加组件到画布&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;fontStyle=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-3760" y="-1170" width="120" height="114" as="geometry" />
+          <mxGeometry x="-3770" y="-1170" width="130" height="114" as="geometry" />
         </mxCell>
         <mxCell id="tVa4ti49Pn7zxhrURFqf-3" value="画布DOM节点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3680" y="-1653" width="120" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HRQdHkldCyFknDisDxDQ-11" value="&lt;b&gt;调整落地页：&lt;/b&gt;&lt;div&gt;1. 对齐方式&lt;/div&gt;&lt;div&gt;2. 高度大小&lt;/div&gt;&lt;div&gt;3. 位置顺序&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;fontStyle=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-3530" y="-1420" width="130" height="120" as="geometry" />
+        <mxCell id="HRQdHkldCyFknDisDxDQ-11" value="&lt;b&gt;画布内调整落地页：&lt;/b&gt;&lt;div&gt;1. 组件数量&lt;/div&gt;&lt;div&gt;2. 页面高度&lt;/div&gt;&lt;div&gt;3. 组件坐标&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-3550" y="-1420" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tVa4ti49Pn7zxhrURFqf-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tVa4ti49Pn7zxhrURFqf-2" target="tVa4ti49Pn7zxhrURFqf-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
