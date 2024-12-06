@@ -1685,8 +1685,8 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRQdHkldCyFknDisDxDQ-12" value="&lt;b&gt;设置单个组件属性：&lt;/b&gt;&lt;div&gt;1. 按钮文案&lt;/div&gt;&lt;div&gt;2. 字体颜色&lt;/div&gt;&lt;div&gt;3. 视频列表&lt;/div&gt;&lt;div&gt;4. 外链跳转&lt;/div&gt;&lt;div&gt;5. 表单提交等&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=2;position2=0.44;fontStyle=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-3290" y="-1340.42" width="170" height="140.42" as="geometry" />
+        <mxCell id="HRQdHkldCyFknDisDxDQ-12" value="&lt;b&gt;设置组件属性：&lt;/b&gt;&lt;div&gt;1. 按钮文案&lt;/div&gt;&lt;div&gt;2. 字体颜色&lt;/div&gt;&lt;div&gt;3. 视频列表&lt;/div&gt;&lt;div&gt;4. 外链跳转&lt;/div&gt;&lt;div&gt;5. 表单提交等&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=2;position2=0.44;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-3290" y="-1340.42" width="120" height="140.42" as="geometry" />
         </mxCell>
         <mxCell id="tVa4ti49Pn7zxhrURFqf-6" value="组件1 DOM节点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3770" y="-1573" width="120" height="53" as="geometry" />
