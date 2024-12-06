@@ -2299,7 +2299,7 @@
         <mxCell id="okoWkwnf4uVGtI2xDHpc-131" value="订阅更新事件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a5a5a5;fontStyle=0" parent="okoWkwnf4uVGtI2xDHpc-125" vertex="1">
           <mxGeometry x="36.5" y="188.06354489164087" width="110" height="28.264705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="okoWkwnf4uVGtI2xDHpc-132" value="渲染完成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#a5a5a5;fontStyle=0" parent="okoWkwnf4uVGtI2xDHpc-125" vertex="1">
+        <mxCell id="okoWkwnf4uVGtI2xDHpc-132" value="渲染&lt;div&gt;完成&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#a5a5a5;fontStyle=0" parent="okoWkwnf4uVGtI2xDHpc-125" vertex="1">
           <mxGeometry x="67.03" y="238.0568885448916" width="48.94736842105263" height="48.94736842105263" as="geometry" />
         </mxCell>
         <mxCell id="okoWkwnf4uVGtI2xDHpc-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="okoWkwnf4uVGtI2xDHpc-125" source="okoWkwnf4uVGtI2xDHpc-130" target="okoWkwnf4uVGtI2xDHpc-171" edge="1">
