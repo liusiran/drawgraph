@@ -2014,10 +2014,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGx2yfLRLou6CQToobyU-23" value="&lt;b&gt;优先展示推荐组件&lt;/b&gt;：&lt;div&gt;减少广告主添加耗时&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=11;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="uGx2yfLRLou6CQToobyU-23" value="&lt;b&gt;优先展示推荐组件&lt;/b&gt;：&lt;div&gt;减少广告主选择耗时&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=11;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1838.98" y="-2255" width="194" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uGx2yfLRLou6CQToobyU-24" value="&lt;b&gt;页面只动态加载推荐组件的代码，不全量加载所有组件：&lt;/b&gt;&lt;div&gt;提升首屏渲染速度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=11;" parent="1" vertex="1">
+        <mxCell id="uGx2yfLRLou6CQToobyU-24" value="&lt;b&gt;页面只按需加载推荐组件的代码，不全量加载所有组件：&lt;/b&gt;&lt;div&gt;提升首屏渲染速度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=11;" parent="1" vertex="1">
           <mxGeometry x="-1838.98" y="-2150" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uGx2yfLRLou6CQToobyU-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" parent="1" vertex="1">
