@@ -2124,7 +2124,7 @@
             <mxRectangle width="59" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGx2yfLRLou6CQToobyU-77" value="历史占60%，行业占40%&lt;div&gt;&lt;font color=&quot;#757575&quot; style=&quot;font-size: 10px;&quot;&gt;（多次上报结果最稳定）&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;" parent="uGx2yfLRLou6CQToobyU-75" vertex="1">
+        <mxCell id="uGx2yfLRLou6CQToobyU-77" value="历史占60%，行业占40%&lt;div&gt;&lt;font color=&quot;#757575&quot; style=&quot;font-size: 10px;&quot;&gt;（上报统计结果最稳定）&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=3;" parent="uGx2yfLRLou6CQToobyU-75" vertex="1">
           <mxGeometry x="59" width="241" height="32" as="geometry">
             <mxRectangle width="63" height="32" as="alternateBounds" />
           </mxGeometry>
